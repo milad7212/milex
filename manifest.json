@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Milad",
+    "description": "for management",
+    "version": "1.0",
+    "browser_action": {
+        "defult_icon": "icon.png",
+        "defult_popup": "popup.html"
+    },
+    "permissions": []
+}
